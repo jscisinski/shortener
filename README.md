@@ -1,0 +1,2 @@
+# shortener
+Stack: Django + Postgres
